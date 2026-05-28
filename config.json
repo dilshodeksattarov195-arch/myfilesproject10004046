@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configferify",
+        "uuid": 8367128,
+        "checksum": "aqa9r8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
